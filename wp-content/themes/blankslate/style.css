@@ -40,7 +40,7 @@ ul.menu, ul.menu li{display:inline-block}
 ul.menu li a{
     font-family: Helvetica;
     float:left;
-    color:#fff;
+    color:#000;
     padding:25px 0;
     font-size:12px;
     text-align:center;
