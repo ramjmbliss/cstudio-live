@@ -1,8 +1,8 @@
 <?php
 # Database Configuration
 define( 'DB_NAME', 'wp_cstudio' );
-define( 'DB_USER', 'cstudio' );
-define( 'DB_PASSWORD', 'Gj6paWNKqaQG8SHV' );
+define( 'DB_USER', 'root' );
+define( 'DB_PASSWORD', '' );
 define( 'DB_HOST', '127.0.0.1' );
 define( 'DB_HOST_SLAVE', '127.0.0.1' );
 define('DB_CHARSET', 'utf8');
